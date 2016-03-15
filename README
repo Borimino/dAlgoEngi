@@ -1,0 +1,50 @@
+# dAlgoEngi
+
+## BinarySearch
+
+BinarySearchNaive.cpp contains our naive solution, and can be run using either the for-loop below the comment Rising in the main method or using the commented out code under Constant in the main method.
+
+BinarySearchV2.cpp contains our most optimized solution, and can be run using either the method testRisingNRandomGuesses or the commented out method testConstantNRandomGuesses.
+
+The output for both programs is in the same format, with both rising and constant being in the following format:
+
+testNr "time:" time "p:" predecessor
+
+## MatrixMultiplication
+
+matrixNaive.cpp contains our naive solution and can be run using either the method testRisingMNP or the commented out method testConstantMNP.
+
+matrixV4.cpp contains out most optimized solution and can be run using either the method testRisingMNP or the commented out method testConstantMNP.
+
+The output of matrixNaive.cpp is in the following format:
+
+\# MATRIX_A
+\#=====
+\# MATRIX_B
+\=========
+\# OUTPUT_MATRIX
+n m p time n*m+n*p
+
+
+The output of matrixNaive.cpp is in the following format:
+
+\# MATRIX_A
+\#=====
+\# MATRIX_B
+\=========
+\# OUTPUT_MATRIX
+n m p time
+
+Most of the result-files have had the comments removed.
+
+## RadixSort
+
+RadixSort.cpp contains our naive solution and can be run using either the method testRisingNRadix or the commented out method testConstantRadix.
+
+RadixSortV2.cpp contains our most optimized solution and can be run using either the method testRisingNRadix or the commented out method testConstantRadix.
+
+For both our naive and optimized solutions we also have a version for handling ints.
+
+The output of all four programs is in the following format:
+
+n time

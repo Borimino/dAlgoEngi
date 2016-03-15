@@ -113,14 +113,5 @@ int main()
 {
 	//cout << "TEST" << endl;
 	//testConstantMNP();
-	//testRisingMNP();
-	
-	init();
-	cout << sizeof(int) << endl;
-	cout << sizeof(long) << endl;
-	cout << sizeof(std::vector<int>) + (sizeof(int) * A.size()) << endl;
-	cout << (sizeof(int) * A.size()) << endl;
-	cout << sizeof(std::vector<int>) + (sizeof(int) * B.size()) << endl;
-	cout << (sizeof(int) * B.size()) << endl;
-	
+	testRisingMNP();
 }
