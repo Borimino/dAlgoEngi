@@ -48,3 +48,7 @@ For both our naive and optimized solutions we also have a version for handling i
 The output of all four programs is in the following format:
 
 n time
+
+# Machine
+
+The machine used for testing is a Toshiba Satellite L855-162 running Ubuntu-Gnome.
