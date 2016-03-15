@@ -1,0 +1,11 @@
+               101      page-faults               #    0.104 M/sec                  
+               557      page-faults               #    0.010 M/sec                  
+             1,893      page-faults               #    0.004 M/sec                  
+             4,104      page-faults               #    0.812 K/sec                  
+             7,196      page-faults               #    0.535 K/sec                  
+            11,170      page-faults               #    0.409 K/sec                  
+            16,021      page-faults               #    0.292 K/sec                  
+            21,748      page-faults               #    0.288 K/sec                  
+            28,359      page-faults               #    0.202 K/sec                  
+            35,844      page-faults               #    0.201 K/sec                  
+            44,209      page-faults               #    0.176 K/sec                  

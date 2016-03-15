@@ -1,0 +1,349 @@
+#TEST
+# Init done
+10 time: 0.002 p: 0
+11 time: 0 p: 0
+12 time: 0.001 p: 0
+13 time: 0 p: 0
+14 time: 0 p: 0
+15 time: 0 p: 0
+16 time: 0 p: 0
+17 time: 0 p: 0
+18 time: 0 p: 0
+19 time: 0 p: 0
+#TEST
+# Init done
+20 time: 0 p: 2
+21 time: 0.001 p: 1
+22 time: 0 p: 2
+23 time: 0 p: 1
+24 time: 0 p: 2
+25 time: 0 p: 1
+26 time: 0 p: 0
+27 time: 0 p: 0
+28 time: 0 p: 1
+29 time: 0 p: 1
+#TEST
+# Init done
+30 time: 0 p: 3
+31 time: 0 p: 0
+32 time: 0.001 p: 5
+33 time: 0 p: 2
+34 time: 0 p: 2
+35 time: 0 p: 5
+36 time: 0 p: 5
+37 time: 0 p: 6
+38 time: 0 p: 1
+39 time: 0 p: 5
+#TEST
+# Init done
+40 time: 0 p: 14
+41 time: 0 p: 12
+42 time: 0 p: 12
+43 time: 0 p: 3
+44 time: 0 p: 14
+45 time: 0 p: 12
+46 time: 0 p: 13
+47 time: 0 p: 1
+48 time: 0 p: 1
+49 time: 0 p: 7
+#TEST
+# Init done
+50 time: 0 p: 24
+51 time: 0.001 p: 30
+52 time: 0 p: 28
+53 time: 0 p: 16
+54 time: 0 p: 3
+55 time: 0 p: 26
+56 time: 0 p: 20
+57 time: 0.001 p: 1
+58 time: 0 p: 22
+59 time: 0 p: 24
+#TEST
+# Init done
+60 time: 0 p: 38
+61 time: 0.001 p: 19
+62 time: 0 p: 28
+63 time: 0 p: 8
+64 time: 0 p: 8
+65 time: 0 p: 9
+66 time: 0 p: 32
+67 time: 0 p: 32
+68 time: 0 p: 22
+69 time: 0 p: 31
+#TEST
+# Init done
+70 time: 0 p: 1
+71 time: 0 p: 24
+72 time: 0 p: 9
+73 time: 0 p: 2
+74 time: 0 p: 64
+75 time: 0 p: 45
+76 time: 0 p: 108
+77 time: 0 p: 26
+78 time: 0 p: 65
+79 time: 0 p: 99
+#TEST
+# Init done
+80 time: 0 p: 249
+81 time: 0.001 p: 150
+82 time: 0 p: 252
+83 time: 0 p: 30
+84 time: 0 p: 224
+85 time: 0 p: 102
+86 time: 0 p: 44
+87 time: 0 p: 14
+88 time: 0 p: 123
+89 time: 0 p: 140
+#TEST
+# Init done
+90 time: 0 p: 392
+91 time: 0.001 p: 220
+92 time: 0 p: 292
+93 time: 0 p: 392
+94 time: 0 p: 291
+95 time: 0 p: 389
+96 time: 0 p: 252
+97 time: 0 p: 163
+98 time: 0 p: 442
+99 time: 0 p: 281
+#TEST
+# Init done
+100 time: 0.001 p: 72
+101 time: 0 p: 558
+102 time: 0 p: 977
+103 time: 0.001 p: 63
+104 time: 0 p: 64
+105 time: 0 p: 235
+106 time: 0 p: 49
+107 time: 0 p: 306
+108 time: 0 p: 918
+109 time: 0 p: 317
+#TEST
+# Init done
+110 time: 0 p: 570
+111 time: 0 p: 877
+112 time: 0.001 p: 1228
+113 time: 0 p: 1513
+114 time: 0 p: 791
+115 time: 0 p: 1984
+116 time: 0 p: 247
+117 time: 0 p: 523
+118 time: 0 p: 800
+119 time: 0 p: 260
+#TEST
+# Init done
+120 time: 0 p: 412
+121 time: 0 p: 3431
+122 time: 0 p: 2356
+123 time: 0 p: 3845
+124 time: 0 p: 1511
+125 time: 0 p: 3646
+126 time: 0.001 p: 105
+127 time: 0 p: 3884
+128 time: 0 p: 2764
+129 time: 0 p: 2129
+#TEST
+# Init done
+130 time: 0 p: 81
+131 time: 0 p: 7606
+132 time: 0 p: 4468
+133 time: 0.001 p: 2919
+134 time: 0 p: 2099
+135 time: 0 p: 4986
+136 time: 0 p: 486
+137 time: 0 p: 6433
+138 time: 0 p: 7648
+139 time: 0 p: 6013
+#TEST
+# Init done
+140 time: 0 p: 8853
+141 time: 0 p: 13804
+142 time: 0.001 p: 12335
+143 time: 0 p: 10182
+144 time: 0 p: 4161
+145 time: 0 p: 455
+146 time: 0.001 p: 4105
+147 time: 0 p: 1619
+148 time: 0 p: 7889
+149 time: 0 p: 15695
+#TEST
+# Init done
+150 time: 0.001 p: 17500
+151 time: 0 p: 30082
+152 time: 0 p: 21718
+153 time: 0 p: 7235
+154 time: 0.001 p: 16187
+155 time: 0 p: 6808
+156 time: 0 p: 2908
+157 time: 0 p: 23096
+158 time: 0.001 p: 28465
+159 time: 0 p: 26148
+#TEST
+# Init done
+160 time: 0.001 p: 5950
+161 time: 0.001 p: 24324
+162 time: 0 p: 14091
+163 time: 0 p: 36023
+164 time: 0.001 p: 33008
+165 time: 0 p: 36040
+166 time: 0 p: 47696
+167 time: 0 p: 15741
+168 time: 0 p: 3721
+169 time: 0 p: 38990
+#TEST
+# Init done
+170 time: 0 p: 42476
+171 time: 0 p: 69579
+172 time: 0 p: 127414
+173 time: 0.001 p: 69693
+174 time: 0 p: 2577
+175 time: 0 p: 97713
+176 time: 0.001 p: 18942
+177 time: 0 p: 90595
+178 time: 0 p: 8326
+179 time: 0 p: 89929
+#TEST
+# Init done
+180 time: 0.001 p: 128391
+181 time: 0 p: 136258
+182 time: 0.001 p: 24125
+183 time: 0 p: 212633
+184 time: 0 p: 48048
+185 time: 0.001 p: 161280
+186 time: 0 p: 99179
+187 time: 0 p: 193621
+188 time: 0 p: 142362
+189 time: 0 p: 253834
+#TEST
+# Init done
+190 time: 0.002 p: 449542
+191 time: 0.001 p: 515357
+192 time: 0.001 p: 183386
+193 time: 0.001 p: 395417
+194 time: 0 p: 285370
+195 time: 0.001 p: 66311
+196 time: 0 p: 101536
+197 time: 0.001 p: 462134
+198 time: 0 p: 207256
+199 time: 0.001 p: 92027
+#TEST
+# Init done
+200 time: 0.002 p: 668954
+201 time: 0 p: 371962
+202 time: 0.001 p: 539910
+203 time: 0.001 p: 9193
+204 time: 0 p: 568418
+205 time: 0.001 p: 526103
+206 time: 0 p: 497193
+207 time: 0 p: 181386
+208 time: 0.001 p: 483828
+209 time: 0 p: 1013454
+#TEST
+# Init done
+210 time: 0.003 p: 1973474
+211 time: 0.001 p: 1390493
+212 time: 0.001 p: 99768
+213 time: 0.001 p: 424706
+214 time: 0.001 p: 1857631
+215 time: 0 p: 404679
+216 time: 0.001 p: 1894389
+217 time: 0 p: 1955641
+218 time: 0.001 p: 595494
+219 time: 0.001 p: 1767040
+#TEST
+# Init done
+220 time: 0.003 p: 2726532
+221 time: 0 p: 4188510
+222 time: 0.001 p: 1231803
+223 time: 0.001 p: 1334466
+224 time: 0 p: 3009443
+225 time: 0.001 p: 989910
+226 time: 0 p: 1400420
+227 time: 0.001 p: 2059989
+228 time: 0 p: 4070259
+229 time: 0.001 p: 558011
+#TEST
+# Init done
+230 time: 0.003 p: 2147891
+231 time: 0.001 p: 5786737
+232 time: 0 p: 6170862
+233 time: 0.001 p: 5832189
+234 time: 0 p: 5794547
+235 time: 0.001 p: 6739217
+236 time: 0 p: 1113817
+237 time: 0.001 p: 8387143
+238 time: 0 p: 5870114
+239 time: 0.001 p: 5790129
+#TEST
+# Init done
+240 time: 0.002 p: 14641869
+241 time: 0 p: 12036827
+242 time: 0 p: 888297
+243 time: 0.001 p: 8449244
+244 time: 0.001 p: 10363372
+245 time: 0 p: 6939507
+246 time: 0.001 p: 2561895
+247 time: 0 p: 10160464
+248 time: 0.001 p: 10991558
+249 time: 0 p: 15739376
+#TEST
+# Init done
+250 time: 0.002 p: 7733089
+251 time: 0 p: 30494898
+252 time: 0 p: 28316369
+253 time: 0.001 p: 17353154
+254 time: 0.001 p: 19246351
+255 time: 0 p: 22936827
+256 time: 0.001 p: 26731531
+257 time: 0.001 p: 20646560
+258 time: 0 p: 16608105
+259 time: 0.001 p: 18218846
+#TEST
+# Init done
+260 time: 0.003 p: 37981482
+261 time: 0.001 p: 27144541
+262 time: 0.001 p: 7228168
+263 time: 0 p: 60929415
+264 time: 0 p: 32976481
+265 time: 0.001 p: 4634045
+266 time: 0 p: 25725471
+267 time: 0.001 p: 34090106
+268 time: 0 p: 46575595
+269 time: 0.001 p: 31595448
+#TEST
+# Init done
+270 time: 0.003 p: 98600344
+271 time: 0.001 p: 128326195
+272 time: 0.001 p: 60409438
+273 time: 0.001 p: 15602508
+274 time: 0.001 p: 69666466
+275 time: 0 p: 53995531
+276 time: 0.001 p: 22542016
+277 time: 0.001 p: 5119459
+278 time: 0 p: 131264792
+279 time: 0.001 p: 67087897
+#TEST
+# Init done
+280 time: 0.003 p: 238962600
+281 time: 0.001 p: 239661126
+282 time: 0.001 p: 164691632
+283 time: 0.001 p: 200170079
+284 time: 0.001 p: 89242104
+285 time: 0 p: 83274640
+286 time: 0.001 p: 55334738
+287 time: 0 p: 82419161
+288 time: 0.001 p: 171030063
+289 time: 0.001 p: 139051676
+#TEST
+# 268435456
+# Init done
+290 time: 0.004 p: 503291148
+291 time: 0.001 p: 7684930
+292 time: 0.001 p: 166196200
+293 time: 0 p: 174974983
+294 time: 0.001 p: 404158660
+295 time: 0.001 p: 400499252
+296 time: 0.001 p: 448044466
+297 time: 0 p: 362775248
+298 time: 0.002 p: 31936166
+299 time: 0 p: 427511174
